@@ -1,1 +1,1 @@
-# Simula-o-Quadripolo-
+# Simulação de Sistemas Elétricos por Quadripolo.
